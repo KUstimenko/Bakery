@@ -71,6 +71,10 @@ li:last-child{
     color: #f15b40;
 }
 
+.menu:active{
+    color: #2abb17d0;
+}
+
 nav{
     margin-bottom: 20px;
 }
